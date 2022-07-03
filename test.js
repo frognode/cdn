@@ -1,1 +1,1 @@
-console.log('FROG CDN');
+console.log('FROG CDN NEW');
